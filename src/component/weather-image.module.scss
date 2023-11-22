@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+.content{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    font-family: 'Concert One', sans-serif;
+}
+.content > img{
+    width: 300px;
+    height: auto;
+}
+.temp{
+    font-size: 96px;
+}
+.feels{
+    color: rgb(69, 69, 69);
+}
+.name{
+    font-size: 48px;
+}
+.desc{
+    font-size: 28px;
+}

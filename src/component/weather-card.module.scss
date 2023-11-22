@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+.box{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 30px;
+    justify-items: center;
+    font-family: 'Concert One', sans-serif;
+}
+.card{
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    font-size: 24px;
+}
+.detail{
+    font-size: 72px;
+}
+.unit{
+    font-size: 36px;
+}
+.coord{
+    font-size: 36px;
+}

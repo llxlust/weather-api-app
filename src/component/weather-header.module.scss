@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Concert One', sans-serif;
+}
+.header  > div:nth-child(1){
+    font-size: 36px;
+}
